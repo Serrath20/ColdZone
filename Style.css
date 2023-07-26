@@ -1,0 +1,68 @@
+body{
+    background-color: #365b77;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+.menu{
+     /*Divicion FlEXIBLE moverse con los elementos entre si*/
+     display: flex;
+     /*acomodar en columna*/
+     flex-direction: column;
+     /*acomodar en el centro*/
+     align-items: center;
+     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+a{
+    /*cambiar color de menu*/
+    color: #000a23;
+    /*linea de abajo*/
+    text-decoration: none;
+}
+header .lista{
+    color: bisque;
+}
+.sorro{
+    width: 500px;
+}
+.zorro{
+   display: flex;
+   justify-content: center;
+   
+}
+.polar{
+    width: 500px;
+}
+.oso{
+    display: flex;
+   justify-content: flex-end;
+}
+.comadreja{
+    display: flex;
+    justify-content: center;
+}
+.japonesa{
+width: 500px;
+}
+.artico{
+    width: 500px;
+}
+.lobo{
+    display: flex;
+   justify-content: flex-end;
+}
+.ping{
+    width: 500px;
+}
+.beb{
+   display: flex;
+   justify-content: center;
+   
+}
+.titulo{
+    color: #7498b6;
+    font-family: 'Montserrat', sans-serif;
+}
+.second{
+color: antiquewhite;
+}
